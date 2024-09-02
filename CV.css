@@ -1,0 +1,42 @@
+body{
+    margin:0%;
+}
+.titulo{
+    text-align: center;
+    padding-left: 100px;
+    
+}
+
+.contacto
+{
+    
+    text-align: center;
+       
+}
+
+.trabajo{
+    text-align: center;
+    padding-left: 100px;
+}
+
+.divisor{
+
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+}
+
+.contenido{
+    
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+
+}
+
+.texto{
+    
+    width: 50%; /* Ajusta el ancho según tus necesidades */
+    text-align: left; /* Mantiene el texto alineado a la izquierda */
+}
